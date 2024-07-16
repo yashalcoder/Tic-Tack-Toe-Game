@@ -1,0 +1,42 @@
+body{
+    background-color:chocolate;
+    color:white;
+    text-align: center;
+}
+#boxes{
+    width: 30%;
+    margin: auto;
+
+}
+#box{
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+    outline: none;
+    margin: 0;
+    padding: 0;
+    border-radius: 10%;
+    color: red;
+    font-size:xx-large;
+    font-weight: 700;
+    background-color: black;
+}
+#btn-reset{
+    background-color: green;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: large;
+    padding: 3%;
+    margin: 5%;
+    cursor: pointer;
+}
+#newgame{
+    background-color: rgb(186, 43, 226);
+    color: white;
+    padding: 2px;
+    margin: 2%;
+}
+.hide{
+   display: none;
+}
